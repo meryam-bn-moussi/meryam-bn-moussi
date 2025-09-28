@@ -1,8 +1,7 @@
 <div align="center">
 
 # 🌸 Welcome to my GitHub 🌸
-  
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" />
+  <img src="PUT_YOUR_GIF_URL_HERE" width="50%" />
 
 ---
 

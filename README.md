@@ -1,7 +1,8 @@
 <div align="center">
 
 # 🌸 Welcome to my GitHub 🌸
-  <div class="tenor-gif-embed" data-postid="7944313" data-share-method="host" data-aspect-ratio="0.771875" data-width="100%"><a href="https://tenor.com/view/anime-computer-girl-typing-gif-7944313">Anime Computer GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50%" />
 
 ---
 
